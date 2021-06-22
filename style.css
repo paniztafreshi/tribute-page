@@ -1,0 +1,62 @@
+#main{
+  font-family: Georgia;
+  text-align:left;
+  color:black;
+  font-size:20px;
+}
+#title{
+  font-size:50px;
+  text-align:left;
+  margin-bottom:2px;
+}
+#title2{
+  font-size:23px;
+  text-align:left;
+  margin-top:5px;
+}
+#img-div{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  width:30%;
+  margin-top:40px;
+}
+#image{
+  width:300px;
+  height:auto;
+  border-radius:50%;
+  max-width:100%;
+}
+
+#img-caption{
+  padding-top:4px;
+  font-size:15px;
+  
+}
+#tribute-info{
+  padding-top:30px;
+  line-height: 40px;
+  margin-bottom:100px;
+  width:53%;
+}
+#img-bg{
+  background-image: url("https://consequence.net/wp-content/uploads/2020/07/Syd-Barrett.jpg");
+  height: auto;
+  background-position: 350px 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
+#detail{
+   line-height:40px;
+   width:53%;
+}
+h3{
+  font-size:25px;
+}
+ul{
+  font-size:20px;
+}
+#tribute-link{
+  
+}
